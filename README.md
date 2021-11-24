@@ -1,4 +1,4 @@
-# IDE v2.0
+# IDE v2.0 (An opensource project)
 
 # Mission to build an opensource IDE 
 
